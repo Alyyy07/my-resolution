@@ -2,3 +2,4 @@ My Resolution
 -Mempelajari Logika awal untuk memahami pemrograman
 -Memahami basic pemrograman dengan c#
 -Mendalami HTML,CSS dan Javascript beserta Frameworknya
+-Membuat beberapa project hasil pembelajaran sebelumnya
